@@ -87,3 +87,4 @@ header("Location: HealthEntryForm.php");
 exit();
 
 }
+
